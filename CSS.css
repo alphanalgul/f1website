@@ -1,0 +1,183 @@
+
+.site-footer {
+  text-align: center;
+  margin-top: 40px;
+  padding: 20px 0;
+}
+
+.feature-icon{
+    height: 50px;
+    width: 50px;
+    border-radius: 10%;
+}
+
+.carousel-img {
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+}
+
+.champ-grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.champ-container{
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    border-radius: 10%;
+}
+
+.champ-photo{
+    width: 80%;
+    height: 80%;
+    border-radius: 10%;
+}
+
+.fit {
+  object-fit: cover;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.alfa-romeo{
+   background-color: darkred;
+}
+
+.ferrari{
+    background-color: red;
+}
+
+.mercedes{
+    background-color: aqua;
+    color: black;
+}
+
+.maserati{
+    background-color: rgb(26, 23, 23);
+}
+
+.brawn{
+    background-color: lawngreen;
+    color: black;
+}
+
+.redbull{
+    background-color: darkblue;
+}
+
+.mclaren{
+    background-color: orangered;
+}
+
+.renault{
+    background-color: yellow;
+    color: black;
+}
+
+.williams{
+    background-color: blue;
+}
+
+.benetton{
+    background-color: #3CB371;
+}
+
+.brabham{
+    background-color: rgb(19, 19, 43);
+}
+
+.lotus{
+    background-color: darkgreen;
+    color: yellow;
+}
+
+.tyrrell{
+    background-color: rgb(41, 41, 179);
+}
+
+.matra{
+    background-color: rgb(5, 111, 146);
+}
+
+.brm{
+    background-color: #3CB371;
+}
+
+.cooper{
+    background-color: rgb(8, 51, 8);
+}
+
+.vanwall{
+    background-color: black;
+}
+.circuit{
+    background-color: whitesmoke;
+}
+
+.hd{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-top: 50px;
+}
+
+
+table {
+  border-collapse: collapse;
+  border: 2px solid rgb(140 140 140);
+  font-family: sans-serif;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+}
+
+caption {
+  caption-side: bottom;
+  padding: 10px;
+  font-weight: bold;
+}
+
+thead,tfoot {
+  background-color: rgb(228 240 245);
+}
+
+th,td {
+  border: 1px solid rgb(160 160 160);
+  padding: 8px 10px;
+}
+
+td:last-of-type {
+  text-align: center;
+}
+
+tbody > tr:nth-of-type(even) {
+  background-color: rgb(237 238 242);
+}
+
+tfoot th {
+  text-align: right;
+}
+
+tfoot td {
+  font-weight: bold;
+}
+
+
+.record-table {
+  margin: 0 auto;
+}
+
+.drivers{
+  background-color: rgb(153, 163, 173);
+}
