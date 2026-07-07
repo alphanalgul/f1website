@@ -113,3 +113,97 @@ f1website/
 │   └── README screenshots
 │
 └── README.md
+
+## How to Download and Run the Project
+
+This project is a static website built only with HTML and CSS.
+No installation, backend server, database, or package manager is required.
+
+You only need a web browser such as Chrome, Edge, Firefox, or Safari.
+
+---
+
+### Option 1: Clone the Repository
+
+If you have Git installed, open a terminal and run:
+
+```bash
+git clone https://github.com/alphanalgul/f1website.git
+```
+
+Then enter the project folder:
+
+```bash
+cd f1website
+```
+
+Open the project in Visual Studio Code:
+
+```bash
+code .
+```
+
+---
+
+### Option 2: Download as ZIP
+
+If you do not want to use Git:
+
+1. Go to the repository:
+
+   ```text
+   https://github.com/alphanalgul/f1website
+   ```
+
+2. Click the green **Code** button.
+
+3. Click **Download ZIP**.
+
+4. Extract the ZIP file.
+
+5. Open the extracted folder.
+
+---
+
+## How to Run the Website
+
+### Method 1: Open Directly in Browser
+
+Open the project folder and double-click:
+
+```text
+index.html
+```
+
+The website will open in your default browser.
+
+---
+
+### Method 2: Run with Visual Studio Code Live Server
+
+Visual Studio Code is not required, but it is recommended for editing and testing the project.
+
+To run the project with Live Server:
+
+1. Open the project folder in **Visual Studio Code**.
+2. Go to the **Extensions** tab.
+3. Search for **Live Server**.
+4. Install the Live Server extension.
+5. Right-click `index.html`.
+6. Click **Open with Live Server**.
+
+The website will open in your browser and automatically refresh when you save changes.
+
+---
+
+## How to Pull the Latest Changes
+
+If you already cloned the repository and want to get the latest version, open the project folder in a terminal and run:
+
+```bash
+git pull origin main
+```
+
+This updates your local project with the latest changes from GitHub.
+
+
